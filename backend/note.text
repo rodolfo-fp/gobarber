@@ -1,0 +1,11 @@
+# criação de tabelas por migrations
+
+yarn typeorm migration:create -n CreateAppointments
+
+# rodas migrations
+
+yarn typeorm migration:run
+
+# reverter migration
+
+yarn typeorm migration:revert
