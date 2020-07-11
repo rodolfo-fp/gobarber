@@ -1,4 +1,7 @@
+# Criando Projeto React Native
+
 npx react-native init gobarber --template react-native-template-typescript
+
 
 adb devices
 
